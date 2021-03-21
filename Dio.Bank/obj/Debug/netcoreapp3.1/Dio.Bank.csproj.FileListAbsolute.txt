@@ -1,0 +1,13 @@
+C:\workspace\Arquivos-Curso\ProjTransfBanc\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.exe
+C:\workspace\Arquivos-Curso\ProjTransfBanc\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.deps.json
+C:\workspace\Arquivos-Curso\ProjTransfBanc\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.runtimeconfig.json
+C:\workspace\Arquivos-Curso\ProjTransfBanc\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.runtimeconfig.dev.json
+C:\workspace\Arquivos-Curso\ProjTransfBanc\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.dll
+C:\workspace\Arquivos-Curso\ProjTransfBanc\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.pdb
+C:\workspace\Arquivos-Curso\ProjTransfBanc\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.csprojAssemblyReference.cache
+C:\workspace\Arquivos-Curso\ProjTransfBanc\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.AssemblyInfoInputs.cache
+C:\workspace\Arquivos-Curso\ProjTransfBanc\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.AssemblyInfo.cs
+C:\workspace\Arquivos-Curso\ProjTransfBanc\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.csproj.CoreCompileInputs.cache
+C:\workspace\Arquivos-Curso\ProjTransfBanc\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.dll
+C:\workspace\Arquivos-Curso\ProjTransfBanc\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.pdb
+C:\workspace\Arquivos-Curso\ProjTransfBanc\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.genruntimeconfig.cache
